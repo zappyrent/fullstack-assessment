@@ -20,13 +20,14 @@ Thank you very much and happy coding.
 ## Coding exercise #1: broad range
 With this exercise you will touch all the layers in a basic 3 layers web application. The requirementes are very simple and you should not do nothing more than you are asked for. 
 
-You should develop a simple CRUD wep application (WA), like a todo list, for example.
+You should develop a simple CRUD wep application (WA), like a todo list, for example.  
 The WA should provide the basic functionalities for listing, creating, showing and deleting items of type of your choice (task, todo, blog, post, ...).
 
 You should develop both backend and frontend.  
 Data have to be persisted in a database.  
-Authentication is not required.  
-The application should provide a README explaining how we can run the application locally or whatever you think is relevant to us.
+Authentication is not required.   
+Write test   
+The application should provide a README explaining how we can run the application locally or whatever you think is relevant to us.  
 Bonus point: The application should be containerized with docker and docker-compose.  
 
 ### Backend
