@@ -2,7 +2,7 @@
 A coding exercise to assess the competency of candidates.
 
 ## About us
-ZappyRent is 
+Zappyrent’s mission is to make renting a fast and affordable experience for tenants and safe for landlords. On ZappyRent, landlords find a tenant for their house and receive monthly payments, even if the tenant stops paying. Tenants get an agent-like experience at no cost. 
 
 ## Context
 The goal of the assesment is knowing the candidate as best as possible. We think the best way to achieve this goal is to let candidate express in the best way she or he knows: programming.
