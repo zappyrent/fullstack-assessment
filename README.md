@@ -5,9 +5,9 @@ A coding exercise to assess the competency of candidates.
 ZappyRent is 
 
 ## Context
-The goal of the assesment is knowing the candiate as best as possible. We think the best way to achieve this goal is to let them express in the best way she or he knows: programming.
+The goal of the assesment is knowing the candiate as best as possible. We think the best way to achieve this goal is to let candidate express in the best way she or he knows: programming.
 
-There are several languages, libreries or framework and we cannot expect you know everything, of course... also in the real world you always will face something new. And if you don't you should do as soon as possible. 
+There are several languages, libraries or frameworks and we cannot expect you know everything, of course... also in the real world you will always face something new.  
 
 For those reasons we believe technologies shouldn't be an issue for a good developer and this means that during the exercise you will use the technologies we are using in ZappyRent.
 
@@ -27,8 +27,7 @@ You should develop both backend and frontend.
 Data have to be persisted in a database.  
 Authentication is not required.  
 The application should be containerized with docker and docker-compose.  
-The application should provide a README. 
-Bonus point: how would you implement authentication? (we need to do it fast and with less bugs as possible)
+The application should provide a README explaining how we can run the application locally or whatever you think is relevant to us.
 
 ### Backend
 [nestjs](https://nestjs.com/)
@@ -42,7 +41,11 @@ Postgres or mysql
 ## Coding exercise #2: frontend   
 Go to [Zappyrent](https://www.zappyrent.com/en), in the section "Our cities" you will see a showcase with all our cities. 
 ![cities slider!](cities_slider.png)
-The candidate should develop the component item in the showcase. Check the behaviours... 
+The candidate should develop the component item in the showcase.   
+Check the behaviours...   
 Bonnus point: develop the mobile version of the component. 
-## Coding exercise #3: backend
+## Question #1: backend
+In the coding excerice #1, how would you implement authentication? (we need to do it fast, reliable and with less bugs as possible)
 
+# Submission
+You can submit your work through a GitHub repository. The code must be available to us in order to evaluate your submission. If you prefer to keep your repository private, please make sure you are granting access to Zappyrent's GitHub user.
