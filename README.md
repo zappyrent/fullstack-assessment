@@ -5,7 +5,7 @@ A coding exercise to assess the competency of candidates.
 ZappyRent is 
 
 ## Context
-The goal of the assesment is knowing the candiate as best as possible. We think the best way to achieve this goal is to let candidate express in the best way she or he knows: programming.
+The goal of the assesment is knowing the candidate as best as possible. We think the best way to achieve this goal is to let candidate express in the best way she or he knows: programming.
 
 There are several languages, libraries or frameworks and we cannot expect you know everything, of course... also in the real world you will always face something new.  
 
@@ -26,8 +26,8 @@ The WA should provide the basic functionalities for listing, creating, showing a
 You should develop both backend and frontend.  
 Data have to be persisted in a database.  
 Authentication is not required.  
-The application should be containerized with docker and docker-compose.  
 The application should provide a README explaining how we can run the application locally or whatever you think is relevant to us.
+Bonus point: The application should be containerized with docker and docker-compose.  
 
 ### Backend
 [nestjs](https://nestjs.com/)
@@ -42,10 +42,10 @@ Postgres or mysql
 Go to [Zappyrent](https://www.zappyrent.com/en), in the section "Our cities" you will see a showcase with all our cities. 
 ![cities slider!](cities_slider.png)
 The candidate should develop the component item in the showcase.   
-Check the behaviours...   
+![component_tem!](component_tem.png)      
 Bonnus point: develop the mobile version of the component. 
-## Question #1: backend
-In the coding excerice #1, how would you implement authentication? (we need to do it fast, reliable and with less bugs as possible)
+## Coding exercise #3: backend
+You should extend the backend you developed in coding exercise #1 adding rate api calls functionality. 
 
 # Submission
 You can submit your work through a GitHub repository. The code must be available to us in order to evaluate your submission. If you prefer to keep your repository private, please make sure you are granting access to Zappyrent's GitHub user.
