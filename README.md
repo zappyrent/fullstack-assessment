@@ -36,11 +36,16 @@ Postgres or mysql
 ### Frontend
 [React-admin](https://marmelab.com/react-admin/)
 
-## Coding exercise #2: frontend   
+## Coding exercise #2: frontend
+
 Go to [Zappyrent](https://www.zappyrent.com/en), in the section "Our cities" you will see a showcase with all our cities.
+
 ![cities slider!](cities_slider.png)
+
 The candidate should develop the component item in the showcase.   
-![component_tem!](component_tem.png)      
+
+![component_tem!](component_tem.png)     
+
 Bonus point: develop the mobile version of the component. 
 
 ## Coding exercise #3: backend
