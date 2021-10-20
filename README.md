@@ -17,14 +17,15 @@ Thank you very much and happy coding! 👨‍💻
 
 
 ## Coding exercise #1: broad range
-With this exercise you will touch all the layers in a basic 3-layer web application. The requirements are very simple, and you should not do anything other than what you are asked for.
+With this exercise you will touch all the layers in a basic 3-layer web application. The requirements are very simple, and you should not do anything other than what you are asked for.  
 
-You should develop a simple CRUD web application (WA), like a todo list, for example. The WA should provide the basic functionalities for listing, creating, showing and deleting items of your choice (task, todo, blog, post, ...).
+You should develop a simple CRUD web application (WA), like a todo list, for example. The WA should provide the basic functionalities for listing, creating, showing and deleting items of your choice (task, todo, blog, post, ...).  
 
-You should develop both backend and frontend.
-Data have to be persisted in a database.
-Authentication is not required.
-The application should provide a README explaining how we can run the application locally or whatever you think is relevant to us. Bonus point: The application should be containerized with docker and docker-compose.
+You should develop both backend and frontend.  
+Data have to be persisted in a database.  
+Authentication is not required.  
+The application should provide a README explaining how we can run the application locally or whatever you think is relevant to us.  
+Bonus point: The application should be containerized with docker and docker-compose.
 
 ### Backend
 [nestjs](https://nestjs.com/)
@@ -48,7 +49,7 @@ The candidate should develop the component item in the showcase:
 Bonus point: develop a mobile version of the component. 
 
 ## Coding exercise #3: backend
-You should extend the backend you developed in coding exercise #1, adding rate API calls functionality.
+You should extend the backend you developed in coding exercise #1, adding rate limit API calls functionality.
 
 # Submission
-You can submit your work through a GitHub repository. The code must be available to us in order to evaluate your submission. If you prefer to keep your repository private, please make sure you are granting access to Zappyrent's GitHub user.
+You can submit your work through a GitHub repository. The code must be available to us in order to evaluate your submission. If you prefer to keep your repository private, please make sure you are granting access to Zappyrent's GitHub user.  
