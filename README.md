@@ -2,33 +2,34 @@
 A coding exercise to assess the competency of candidates.
 
 ## About us
-Zappyrent’s mission is to make renting a fast and affordable experience for tenants and safe for landlords. On ZappyRent, landlords find a tenant for their house and receive monthly payments, even if the tenant stops paying. Tenants get an agent-like experience at no cost. 
+Zappyrent’s mission is to make renting a fast and affordable experience for tenants and safe for landlords. On Zappyrent, landlords find a tenant for their home and receive monthly payments, even if the tenant stops paying. Tenants get an agent-like experience at no cost.
 
 ## Context
-The goal of the assesment is knowing the candidate as best as possible. We think the best way to achieve this goal is to let candidate express in the best way she or he knows: programming.
+The goal of the assessment is getting to know the candidate as well  as possible. We think the best way to achieve this goal is to let candidates express themselves in the way she or he knows best: programming.  
 
-There are several languages, libraries or frameworks and we cannot expect you know everything, of course... also in the real world you will always face something new.  
+There are several languages, libraries or frameworks, and we cannot expect you to know everything, of course... also in the real world, you will always face something new.  
 
-For those reasons we believe technologies shouldn't be an issue for a good developer and this means that during the exercise you will use the technologies we are using in ZappyRent.
+For those reasons, we believe technologies shouldn't be an issue for a good developer, and this means that during the exercise you will use the technologies we are using at Zappyrent.  
 
-Obviously we are going to ask you something simple, you don't need to master anything but good development practices.
+Obviously we are going to ask you to perform a simple task for us. You don't need to master anything but good development practices.  
 
-It won't be easy but this is an opportunity to show us and yourself what you can do outside your comfort zone. I often hear developers complains about they don't have opportunities to see new things. This moment could be one of them.
+It won't be easy, but this is an opportunity to show us what you can do outside your comfort zone. I often hear developers complain that  they don't have opportunities to try new things. This moment could be one of them.  
 
 Thank you very much and happy coding.
 
-## Coding exercise #1: broad range
-With this exercise you will touch all the layers in a basic 3 layers web application. The requirementes are very simple and you should not do nothing more than you are asked for. 
 
-You should develop a simple CRUD wep application (WA), like a todo list, for example.  
-The WA should provide the basic functionalities for listing, creating, showing and deleting items of type of your choice (task, todo, blog, post, ...).
+## Coding exercise #1: broad range
+With this exercise you will touch all the layers in a basic 3 layers web application. The requirementes are very simple and you should not do nothing more than you are asked for.  
+
+You should develop a simple CRUD wep application (WA), like a todo list, for example.
+The WA should provide the basic functionalities for listing, creating, showing and deleting items of type of your choice (task, todo, blog, post, ...).  
 
 You should develop both backend and frontend.  
 Data have to be persisted in a database.  
-Authentication is not required.   
-Write test   
-The application should provide a README explaining how we can run the application locally or whatever you think is relevant to us.  
-Bonus point: The application should be containerized with docker and docker-compose.  
+Authentication is not required.  
+Write unit test.  
+The application should provide a README explaining how we can run the application locally or whatever you think is relevant to us.
+Bonus point: The application should be containerized with docker and docker-compose.    
 
 ### Backend
 [nestjs](https://nestjs.com/)
